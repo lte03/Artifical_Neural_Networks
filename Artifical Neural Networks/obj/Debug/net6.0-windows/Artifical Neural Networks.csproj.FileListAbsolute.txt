@@ -1,0 +1,11 @@
+C:\Users\LOKMAN\source\repos\Artifical Neural Networks\bin\Debug\net6.0-windows\Artifical Neural Networks.deps.json
+C:\Users\LOKMAN\source\repos\Artifical Neural Networks\bin\Debug\net6.0-windows\Artifical Neural Networks.dll
+C:\Users\LOKMAN\source\repos\Artifical Neural Networks\bin\Debug\net6.0-windows\Artifical Neural Networks.pdb
+C:\Users\LOKMAN\source\repos\Artifical Neural Networks\obj\Debug\net6.0-windows\Artifical Neural Networks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOKMAN\source\repos\Artifical Neural Networks\obj\Debug\net6.0-windows\Artifical Neural Networks.AssemblyInfoInputs.cache
+C:\Users\LOKMAN\source\repos\Artifical Neural Networks\obj\Debug\net6.0-windows\Artifical Neural Networks.AssemblyInfo.cs
+C:\Users\LOKMAN\source\repos\Artifical Neural Networks\obj\Debug\net6.0-windows\Artifical Neural Networks.csproj.CoreCompileInputs.cache
+C:\Users\LOKMAN\source\repos\Artifical Neural Networks\obj\Debug\net6.0-windows\Artifical Neural Networks.dll
+C:\Users\LOKMAN\source\repos\Artifical Neural Networks\obj\Debug\net6.0-windows\refint\Artifical Neural Networks.dll
+C:\Users\LOKMAN\source\repos\Artifical Neural Networks\obj\Debug\net6.0-windows\Artifical Neural Networks.pdb
+C:\Users\LOKMAN\source\repos\Artifical Neural Networks\obj\Debug\net6.0-windows\ref\Artifical Neural Networks.dll
